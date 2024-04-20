@@ -1,4 +1,4 @@
-package com.cve
+package com.ChatApp
 
 import android.app.Application
 import com.facebook.react.PackageList
