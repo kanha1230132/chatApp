@@ -7,7 +7,7 @@ const SplashScreen = ({navigation}:SplashScreenProps) => {
   const {AppColor, imageUrl} = NativeLibrary();
   useEffect(()=>{
     setTimeout(()=>{
-      navigation.navigate('HomeScreen');
+      navigation.navigate('GetStartedScreen');
     },3000)
   },[]);
 
