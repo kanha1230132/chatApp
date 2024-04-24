@@ -24,7 +24,7 @@ const SignInScreen = () => {
             letterSpacing: 1.5,
           }}>
           Sign Up
-        </Text>
+        </Text> 
         <Text
           style={{
             fontSize: 25,
